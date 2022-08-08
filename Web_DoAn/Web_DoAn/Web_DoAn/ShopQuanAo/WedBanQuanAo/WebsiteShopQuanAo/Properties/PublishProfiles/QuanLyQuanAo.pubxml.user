@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\Công Nghệ Phần Mềm</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/PagedList.dll">
+      <publishTime>04/24/2022 12:50:50</publishTime>
+    </File>
+    <File Include="bin/PagedList.Mvc.dll">
+      <publishTime>04/24/2022 12:50:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>04/24/2022 10:07:58</publishTime>
+    </File>
+    <File Include="bin/WebsiteShopQuanAo.dll">
+      <publishTime>06/06/2022 20:29:52</publishTime>
+    </File>
+    <File Include="Content/PagedList.css">
+      <publishTime>04/24/2022 14:35:32</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/24/2022 12:54:00</publishTime>
+    </File>
+    <File Include="lib/asset/script/ExportExcel.js">
+      <publishTime>05/20/2022 13:47:06</publishTime>
+    </File>
+    <File Include="lib/asset/script/SignIn.js">
+      <publishTime>05/20/2022 13:47:06</publishTime>
+    </File>
+    <File Include="lib/asset/script/validate.js">
+      <publishTime>05/20/2022 13:47:06</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/bootstrap.min.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/elegant-icons.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/font-awesome.min.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/magnific-popup.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/nice-select.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/owl.carousel.min.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/slicknav.min.css">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/style.css">
+      <publishTime>05/20/2022 14:45:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/css/style.css.map">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/ElegantIcons.eot">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/ElegantIcons.svg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/ElegantIcons.ttf">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/ElegantIcons.woff">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/fontawesome-webfont.eot">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/fontawesome-webfont.svg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/fontawesome-webfont.ttf">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/fontawesome-webfont.woff">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/fontawesome-webfont.woff2">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/fonts/FontAwesome.otf">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/about-us.jpg">
+      <publishTime>05/21/2022 14:57:50</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/team-1.jpg">
+      <publishTime>05/21/2022 14:52:56</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/team-2.jpg">
+      <publishTime>05/21/2022 14:53:22</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/team-3.jpg">
+      <publishTime>05/21/2022 14:54:16</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/team-4.jpg">
+      <publishTime>05/21/2022 14:54:52</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/testimonial-author.jpg">
+      <publishTime>05/21/2022 14:55:54</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/about/testimonial-pic.jpg">
+      <publishTime>05/21/2022 14:56:36</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/banner/banner-1.jpg">
+      <publishTime>05/21/2022 14:59:16</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/banner/banner-2.jpg">
+      <publishTime>05/21/2022 14:59:38</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/banner/banner-3.jpg">
+      <publishTime>05/21/2022 15:00:04</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-1.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-2.jpg">
+      <publishTime>05/22/2022 09:47:44</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-3.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-4.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-5.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-6.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-7.jpg">
+      <publishTime>05/22/2022 09:47:24</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-8.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/blog-9.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/details/blog-author.jpg">
+      <publishTime>05/22/2022 09:46:24</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/blog/details/blog-details.jpg">
+      <publishTime>05/22/2022 09:45:58</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/breadcrumb-bg.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-1.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-2.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-3.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-4.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-5.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-6.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-7.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/clients/client-8.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/footer-logo.png">
+      <publishTime>05/21/2022 15:07:04</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/hero/hero-1.jpg">
+      <publishTime>05/21/2022 14:52:56</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/hero/hero-2.jpg">
+      <publishTime>05/21/2022 14:55:54</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/icon/calendar.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/icon/cart.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/icon/compare.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/icon/heart.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/icon/search.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/instagram/instagram-1.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/instagram/instagram-2.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/instagram/instagram-3.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/instagram/instagram-4.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/instagram/instagram-5.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/instagram/instagram-6.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/logo.png">
+      <publishTime>06/01/2022 17:42:52</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/payment.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product-sale.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-1.jpg">
+      <publishTime>05/22/2022 09:38:38</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-10.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-11.jpg">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-12.jpg">
+      <publishTime>05/22/2022 09:39:52</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-13.jpg">
+      <publishTime>05/22/2022 09:44:10</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-14.jpg">
+      <publishTime>05/22/2022 09:43:12</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-2.jpg">
+      <publishTime>05/22/2022 09:39:24</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-3.jpg">
+      <publishTime>05/22/2022 09:38:52</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-4.jpg">
+      <publishTime>05/22/2022 09:39:36</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-5.jpg">
+      <publishTime>05/22/2022 09:41:56</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-6.jpg">
+      <publishTime>05/22/2022 09:36:50</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-7.jpg">
+      <publishTime>05/22/2022 09:37:14</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-8.jpg">
+      <publishTime>05/22/2022 09:42:20</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/product/product-9.jpg">
+      <publishTime>05/22/2022 09:42:30</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/details-payment.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/product-big-2.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/product-big-3.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/product-big-4.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/product-big.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/thumb-1.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/thumb-2.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/thumb-3.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shop-details/thumb-4.png">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shopping-cart/cart-1.jpg">
+      <publishTime>05/22/2022 09:36:04</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shopping-cart/cart-2.jpg">
+      <publishTime>05/22/2022 09:35:24</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shopping-cart/cart-3.jpg">
+      <publishTime>05/22/2022 09:36:50</publishTime>
+    </File>
+    <File Include="lib/cssDesign/img/shopping-cart/cart-4.jpg">
+      <publishTime>05/22/2022 09:37:14</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/bootstrap.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/jquery-3.3.1.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/jquery.countdown.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/jquery.magnific-popup.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/jquery.nice-select.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/jquery.nicescroll.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/jquery.slicknav.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/main.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/mixitup.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/js/owl.carousel.min.js">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/style.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_about.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_base.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_blog-details.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_blog-sidebar.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_blog.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_breadcrumb.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_checkout.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_contact.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_footer.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_header.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_hero.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_home-page.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_mixins.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_product.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_responsive.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_shop-details.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_shop.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_shopping-cart.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="lib/cssDesign/sass/_variable.scss">
+      <publishTime>04/24/2022 13:00:18</publishTime>
+    </File>
+    <File Include="Models/ShopQuanAo.dbml">
+      <publishTime>06/05/2022 15:48:32</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/24/2022 14:35:32</publishTime>
+    </File>
+    <File Include="Views/GioHang/GioHang.cshtml">
+      <publishTime>06/05/2022 17:57:18</publishTime>
+    </File>
+    <File Include="Views/GioHang/GioHangEmpty.cshtml">
+      <publishTime>05/20/2022 18:16:14</publishTime>
+    </File>
+    <File Include="Views/GioHang/GioHangPartial.cshtml">
+      <publishTime>04/24/2022 16:09:34</publishTime>
+    </File>
+    <File Include="Views/GioHang/ThanhToanThanhCong.cshtml">
+      <publishTime>05/20/2022 18:16:36</publishTime>
+    </File>
+    <File Include="Views/GioHang/XacNhanDonHang.cshtml">
+      <publishTime>06/05/2022 19:54:26</publishTime>
+    </File>
+    <File Include="Views/SanPham/DanhMucPartial.cshtml">
+      <publishTime>05/20/2022 12:27:36</publishTime>
+    </File>
+    <File Include="Views/SanPham/QuanLySanPham.cshtml">
+      <publishTime>06/05/2022 14:06:32</publishTime>
+    </File>
+    <File Include="Views/SanPham/SanPhamTheoLoai.cshtml">
+      <publishTime>06/05/2022 14:05:48</publishTime>
+    </File>
+    <File Include="Views/SanPham/TatCaSanPham.cshtml">
+      <publishTime>06/03/2022 20:19:24</publishTime>
+    </File>
+    <File Include="Views/SanPham/TatCaSanPhamHome.cshtml">
+      <publishTime>06/01/2022 20:22:18</publishTime>
+    </File>
+    <File Include="Views/SanPham/ThemSanPham.cshtml">
+      <publishTime>06/05/2022 13:53:42</publishTime>
+    </File>
+    <File Include="Views/SanPham/ThemVaoKho.cshtml">
+      <publishTime>06/05/2022 14:04:44</publishTime>
+    </File>
+    <File Include="Views/SanPham/XemChiTiet.cshtml">
+      <publishTime>06/01/2022 22:13:18</publishTime>
+    </File>
+    <File Include="Views/SanPham/XemChiTietKho.cshtml">
+      <publishTime>06/05/2022 14:09:52</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutPageHome.cshtml">
+      <publishTime>06/04/2022 15:18:20</publishTime>
+    </File>
+    <File Include="Views/Shared/_LayoutPageHome2.cshtml">
+      <publishTime>06/04/2022 15:18:34</publishTime>
+    </File>
+    <File Include="Views/TaiKhoan/DangKy.cshtml">
+      <publishTime>06/05/2022 13:12:40</publishTime>
+    </File>
+    <File Include="Views/TaiKhoan/DangNhap.cshtml">
+      <publishTime>05/24/2022 10:32:36</publishTime>
+    </File>
+    <File Include="Views/TaiKhoan/DoiMatKhau.cshtml">
+      <publishTime>06/05/2022 13:53:48</publishTime>
+    </File>
+    <File Include="Views/TaiKhoan/ThongTinTaiKhoan.cshtml">
+      <publishTime>06/05/2022 13:52:02</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>04/24/2022 12:54:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/06/2022 20:29:52</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
